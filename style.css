@@ -1,0 +1,13 @@
+/**
+ * Theme Name:        Alshershaby
+ * Description:       Custom theme description...
+ * Version:           1.0.0
+ * Author:            Muhammad Elshershaby
+ * Tags:              block-patterns, full-site-editing
+ * Requires PHP:      7.4
+ */
+
+ h1,h2,p{
+    color: orange;
+ }
+ 
