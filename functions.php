@@ -19,3 +19,4 @@ function shershaby_features(){
 }
 
 add_action('after_setup_theme','shershaby_features');
+
